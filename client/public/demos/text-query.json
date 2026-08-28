@@ -1,0 +1,11 @@
+{
+  "imageUrl": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 760'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0' y1='0' x2='1' y2='1'%3E%3Cstop stop-color='%23071f2b'/%3E%3Cstop offset='.48' stop-color='%231d5860'/%3E%3Cstop offset='1' stop-color='%23b65332'/%3E%3C/linearGradient%3E%3Cpattern id='p' width='48' height='48' patternUnits='userSpaceOnUse' patternTransform='rotate(22)'%3E%3Cpath d='M0 24h48M24 0v48' stroke='%23a7e3d5' stroke-opacity='.12'/%3E%3C/pattern%3E%3C/defs%3E%3Crect width='1200' height='760' fill='url(%23g)'/%3E%3Cpath d='M0 570 190 440 330 500 510 290 690 410 900 170 1200 330V760H0Z' fill='%23051824' fill-opacity='.63'/%3E%3Cpath d='M0 570 190 440 330 500 510 290 690 410 900 170 1200 330' fill='none' stroke='%23f0a36b' stroke-opacity='.7' stroke-width='5'/%3E%3Crect width='1200' height='760' fill='url(%23p)'/%3E%3Ccircle cx='922' cy='205' r='62' fill='%23d9fbef' fill-opacity='.12'/%3E%3C/svg%3E",
+  "answer": "The scene suggests a compact settlement organized around a strong linear access corridor. The most important analytical cue is the contrast between the dense central footprint and the more open terrain beyond its eastern edge.",
+  "confidence": 0.9,
+  "source": "Prepared example",
+  "mode": "Text query",
+  "regions": [
+    { "label": "Settlement core", "bbox": [0.25, 0.28, 0.62, 0.62] },
+    { "label": "Access corridor", "bbox": [0.08, 0.62, 0.73, 0.78] }
+  ]
+}

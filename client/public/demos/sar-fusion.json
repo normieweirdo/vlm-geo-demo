@@ -1,0 +1,11 @@
+{
+  "imageUrl": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 760'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0' y1='0' x2='1' y2='1'%3E%3Cstop stop-color='%23071f2b'/%3E%3Cstop offset='.48' stop-color='%231d5860'/%3E%3Cstop offset='1' stop-color='%23b65332'/%3E%3C/linearGradient%3E%3Cpattern id='p' width='48' height='48' patternUnits='userSpaceOnUse' patternTransform='rotate(22)'%3E%3Cpath d='M0 24h48M24 0v48' stroke='%23a7e3d5' stroke-opacity='.12'/%3E%3C/pattern%3E%3C/defs%3E%3Crect width='1200' height='760' fill='url(%23g)'/%3E%3Cpath d='M0 570 190 440 330 500 510 290 690 410 900 170 1200 330V760H0Z' fill='%23051824' fill-opacity='.63'/%3E%3Cpath d='M0 570 190 440 330 500 510 290 690 410 900 170 1200 330' fill='none' stroke='%23f0a36b' stroke-opacity='.7' stroke-width='5'/%3E%3Crect width='1200' height='760' fill='url(%23p)'/%3E%3Ccircle cx='922' cy='205' r='62' fill='%23d9fbef' fill-opacity='.12'/%3E%3C/svg%3E",
+  "answer": "The fused optical and SAR view highlights a linear built structure in the northwest and a high-return industrial footprint in the lower-right quadrant.",
+  "confidence": 0.88,
+  "source": "Pipeline 6",
+  "mode": "SAR fusion",
+  "regions": [
+    { "label": "Linear structure", "bbox": [0.12, 0.18, 0.4, 0.43] },
+    { "label": "High-return footprint", "bbox": [0.58, 0.52, 0.86, 0.76] }
+  ]
+}

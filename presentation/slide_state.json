@@ -1,0 +1,144 @@
+{
+  "project_info": {
+    "title": "Ask a map. See the answer.",
+    "created": 1787681327.747,
+    "last_updated": 1787681675.853,
+    "total_slides": 12
+  },
+  "slides": [
+    {
+      "id": "ask_a_map",
+      "state": "edited",
+      "pageNum": 1
+    },
+    {
+      "id": "live_demo_problem",
+      "state": "edited",
+      "pageNum": 2
+    },
+    {
+      "id": "two_pipelines",
+      "state": "edited",
+      "pageNum": 3
+    },
+    {
+      "id": "stable_reference",
+      "state": "edited",
+      "pageNum": 4
+    },
+    {
+      "id": "structured_contract",
+      "state": "edited",
+      "pageNum": 5
+    },
+    {
+      "id": "evidence_not_only_prose",
+      "state": "edited",
+      "pageNum": 6
+    },
+    {
+      "id": "demo_sequence",
+      "state": "edited",
+      "pageNum": 7
+    },
+    {
+      "id": "reliability_states",
+      "state": "edited",
+      "pageNum": 8
+    },
+    {
+      "id": "intentionally_small",
+      "state": "edited",
+      "pageNum": 9
+    },
+    {
+      "id": "technical_takeaways",
+      "state": "edited",
+      "pageNum": 10
+    },
+    {
+      "id": "roadmap",
+      "state": "edited",
+      "pageNum": 11
+    },
+    {
+      "id": "closing",
+      "state": "edited",
+      "pageNum": 12
+    }
+  ],
+  "outline": [
+    {
+      "id": "ask_a_map",
+      "title": "Ask a map. See the answer.",
+      "summary": "Introduce the public no-login geospatial VLM workspace and its evidence-led purpose.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "live_demo_problem",
+      "title": "The live-demo problem",
+      "summary": "Explain why latency, responsive overlays, and roadmap features need a focused demo design.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "two_pipelines",
+      "title": "The two-pipeline story",
+      "summary": "Contrast real Pipeline 2 execution with clearly labeled Pipeline 6 examples rendered through one path.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "stable_reference",
+      "title": "Upload to stable reference",
+      "summary": "Show local preview, secure object storage, and the server-side VLM handoff.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "structured_contract",
+      "title": "Structured answer contract",
+      "summary": "Define the typed answer, confidence, and normalized region contract.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "evidence_not_only_prose",
+      "title": "Evidence, not only prose",
+      "summary": "Show the result panel composition and the semantic cyan/orange roles.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "demo_sequence",
+      "title": "Demo sequence",
+      "summary": "Provide the recommended live walkthrough sequence for a confident presentation.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "reliability_states",
+      "title": "Reliability states",
+      "summary": "Show processing skeletons and friendly retryable failures instead of blank screens.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "intentionally_small",
+      "title": "What is intentionally small",
+      "summary": "Make explicit which features are deferred to reduce the failure surface.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "technical_takeaways",
+      "title": "Technical takeaways",
+      "summary": "Summarize the frontend, server, storage, contracts, and tests behind the demo.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "roadmap",
+      "title": "Roadmap",
+      "summary": "Describe the next safe extensions after the core live flow is proven.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "closing",
+      "title": "Make the answer inspectable",
+      "summary": "Close on the thesis that geospatial VLM trust improves when answers and evidence appear together.",
+      "image_plan": "Use a suitable image if needed"
+    }
+  ]
+}
